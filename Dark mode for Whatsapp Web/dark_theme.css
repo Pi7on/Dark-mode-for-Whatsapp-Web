@@ -1640,7 +1640,7 @@ html[dir=rtl] ._3vCgA {
 }
 
 html[dir] ._3Jvyf {
-	/*background-color: #f00 !important; */
+	background-color: #eee;
 	padding: 10px 16px
 }
 
@@ -5105,7 +5105,7 @@ html[dir=rtl] ._1SwuT {
 }
 
 html[dir] ._3fs0K {
-	background-color: #eee;
+	background-color: #424242;
 	padding: 10px 16px
 }
 
@@ -5179,7 +5179,7 @@ html[dir=rtl] ._1lpto {
 	overflow: hidden;
 	text-overflow: ellipsis;
 	white-space: nowrap;
-	color: #000;
+	color: #b3b3b3; /*modded*/
 	display: -webkit-flex;
 	display: flex;
 	-webkit-flex-grow: 1;
@@ -24598,4 +24598,11 @@ html[dir] .RWKZp ._35RRm {
 
 html[dir] ._30WBO {
 	margin-bottom: 3px
+}
+
+
+
+/*__________________________modded________________________________*/
+path {
+	fill: #b3b3b3 !important; /*modded*/
 }
