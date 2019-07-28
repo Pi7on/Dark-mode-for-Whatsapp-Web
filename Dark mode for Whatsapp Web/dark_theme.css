@@ -1640,7 +1640,7 @@ html[dir=rtl] ._3vCgA {
 }
 
 html[dir] ._3Jvyf {
-	background-color: #eee;
+	background-color: #eee !important;
 	padding: 10px 16px
 }
 
@@ -5105,7 +5105,7 @@ html[dir=rtl] ._1SwuT {
 }
 
 html[dir] ._3fs0K {
-	background-color: #424242;
+	background-color: #424242 !important;
 	padding: 10px 16px
 }
 
@@ -5179,7 +5179,7 @@ html[dir=rtl] ._1lpto {
 	overflow: hidden;
 	text-overflow: ellipsis;
 	white-space: nowrap;
-	color: #b3b3b3; /*modded*/
+	color: #b3b3b3 !important; /*modded*/
 	display: -webkit-flex;
 	display: flex;
 	-webkit-flex-grow: 1;
