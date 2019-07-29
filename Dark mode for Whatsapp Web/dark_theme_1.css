@@ -395,7 +395,7 @@ html[dir] ._1RYPC {
 }
 
 html[dir] ._2HS9r {
-	background-color: #666666
+	background-color: #666666 !important /*mod*/
 }
 
 .etTyb {
@@ -1640,7 +1640,7 @@ html[dir=rtl] ._3vCgA {
 }
 
 html[dir] ._3Jvyf {
-	background-color: #424242;
+	background-color: #424242 !important; /*mod*/
 	padding: 10px 16px
 }
 
@@ -4857,7 +4857,7 @@ html[dir] ._2ILbv ._1Dfrr:hover {
 }
 
 html[dir] ._1_keJ {
-	background-color: #303030 !important
+	background-color: #303030 !important /*mod*/
 }
 
 html[dir=ltr] ._1_keJ {
@@ -5105,7 +5105,7 @@ html[dir=rtl] ._1SwuT {
 }
 
 html[dir] ._3fs0K {
-	background-color: #424242;
+	background-color: #424242 !important; /*mod*/
 	padding: 10px 16px
 }
 
@@ -5179,7 +5179,7 @@ html[dir=rtl] ._1lpto {
 	overflow: hidden;
 	text-overflow: ellipsis;
 	white-space: nowrap;
-	color: #b3b3b3; /*modded*/
+	color: #b3b3b3 !important; /*modded*/
 	display: -webkit-flex;
 	display: flex;
 	-webkit-flex-grow: 1;
@@ -7364,7 +7364,7 @@ html[dir=rtl] .R8Aiw {
 }
 
 html[dir] ._2UaNq {
-	background-color: #424242;
+	background-color: #424242 !important; /*mod*/
 	cursor: pointer
 }
 
@@ -7480,7 +7480,7 @@ html[dir=rtl] .KgevS._221a1 {
 .xD91K {
 	-webkit-align-items: center;
 	align-items: center;
-	color: #b3b3b3; /*mod*/
+	color: #b3b3b3 !important; /*mod*/
 	display: -webkit-flex;
 	display: flex;
 	font-size: 13px;
@@ -7493,7 +7493,7 @@ html[dir] .xD91K {
 }
 
 ._3H4MS {
-	color: #b3b3b3;
+	color: #b3b3b3 !important; /*mod*/
 	display: -webkit-flex;
 	display: flex;
 	-webkit-flex-grow: 1;
@@ -7665,7 +7665,7 @@ html[dir] .textsize-xxsmall ._2WP9Q .icon {
 }
 
 ._0LqQ {
-	color: #b3b3b3 !important;
+	color: #b3b3b3 !important; /*mod*/
 	-webkit-flex: none;
 	flex: none;
 	font-size: 12px;
@@ -7782,7 +7782,7 @@ html[dir] ._2UaNq:hover ._2WP9Q {
 
 ._2ko65 ._3H4MS {
 	font-weight: 500;
-	color: #b3b3b3
+	color: #b3b3b3 !important /*mod*/
 }
 
 ._2ko65 ._2Bw3Q {
@@ -7827,7 +7827,7 @@ html[dir=rtl] ._2UaNq:hover:after {
 }
 
 html[dir] ._2UaNq._3mMX1 {
-	background-color: #666666 !important
+	background-color: #666666 !important /*mod*/
 }
 
 html[dir] ._2UaNq._3mMX1 ._2WP9Q,
@@ -8042,7 +8042,7 @@ html[dir=rtl] ._2UaNq._27Ppf ._3vpWv {
 
 ._2UaNq._27Ppf ._2-LYg {
 	font-size: 13.5px;
-	color: #303030
+	color: #303030 !important /*mod*/
 }
 
 html[dir=ltr] ._2UaNq._27Ppf ._2-LYg,
@@ -8056,7 +8056,7 @@ html[dir] ._2UaNq._27Ppf ._2WP9Q._2-LYg {
 
 ._2UaNq._27Ppf ._3H4MS {
 	font-size: 13.5px;
-	color: #303030
+	color: #303030 !important /*mod*/
 }
 
 html[dir=ltr] ._2UaNq._27Ppf ._3H4MS,
