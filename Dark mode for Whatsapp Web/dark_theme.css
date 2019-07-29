@@ -395,7 +395,7 @@ html[dir] ._1RYPC {
 }
 
 html[dir] ._2HS9r {
-	background-color: #f8f8f8
+	background-color: #666666
 }
 
 .etTyb {
@@ -1640,7 +1640,7 @@ html[dir=rtl] ._3vCgA {
 }
 
 html[dir] ._3Jvyf {
-	background-color: #eee !important;
+	background-color: #424242;
 	padding: 10px 16px
 }
 
@@ -4857,7 +4857,7 @@ html[dir] ._2ILbv ._1Dfrr:hover {
 }
 
 html[dir] ._1_keJ {
-	background-color: transparent
+	background-color: #303030 !important
 }
 
 html[dir=ltr] ._1_keJ {
@@ -5105,7 +5105,7 @@ html[dir=rtl] ._1SwuT {
 }
 
 html[dir] ._3fs0K {
-	background-color: #424242 !important;
+	background-color: #424242;
 	padding: 10px 16px
 }
 
@@ -5179,7 +5179,7 @@ html[dir=rtl] ._1lpto {
 	overflow: hidden;
 	text-overflow: ellipsis;
 	white-space: nowrap;
-	color: #b3b3b3 !important; /*modded*/
+	color: #b3b3b3; /*modded*/
 	display: -webkit-flex;
 	display: flex;
 	-webkit-flex-grow: 1;
@@ -7364,7 +7364,7 @@ html[dir=rtl] .R8Aiw {
 }
 
 html[dir] ._2UaNq {
-	background-color: #fff;
+	background-color: #424242;
 	cursor: pointer
 }
 
@@ -7480,7 +7480,7 @@ html[dir=rtl] .KgevS._221a1 {
 .xD91K {
 	-webkit-align-items: center;
 	align-items: center;
-	color: rgba(0, 0, 0, .6);
+	color: #b3b3b3; /*mod*/
 	display: -webkit-flex;
 	display: flex;
 	font-size: 13px;
@@ -7493,7 +7493,7 @@ html[dir] .xD91K {
 }
 
 ._3H4MS {
-	color: #000;
+	color: #b3b3b3;
 	display: -webkit-flex;
 	display: flex;
 	-webkit-flex-grow: 1;
@@ -7665,7 +7665,7 @@ html[dir] .textsize-xxsmall ._2WP9Q .icon {
 }
 
 ._0LqQ {
-	color: rgba(0, 0, 0, .4);
+	color: #b3b3b3 !important;
 	-webkit-flex: none;
 	flex: none;
 	font-size: 12px;
@@ -7773,7 +7773,7 @@ html[dir] ._2UaNq:hover ._2WP9Q {
 
 ._2UaNq._2ko65 .xD91K {
 	font-weight: 400;
-	color: rgba(0, 0, 0, .8)
+	color: rgba(0, 0, 0, .3)
 }
 
 ._2ko65 ._0LqQ {
@@ -7782,7 +7782,7 @@ html[dir] ._2UaNq:hover ._2WP9Q {
 
 ._2ko65 ._3H4MS {
 	font-weight: 500;
-	color: #262626
+	color: #b3b3b3
 }
 
 ._2ko65 ._2Bw3Q {
@@ -7827,7 +7827,7 @@ html[dir=rtl] ._2UaNq:hover:after {
 }
 
 html[dir] ._2UaNq._3mMX1 {
-	background-color: #e9ebeb
+	background-color: #666666 !important
 }
 
 html[dir] ._2UaNq._3mMX1 ._2WP9Q,
@@ -11357,7 +11357,7 @@ html[dir] ._2sOZc {
 }
 
 html[dir] .P6z4j {
-	background-color: #09d261;
+	background-color: #009688 !important; /*mod*/
 	border-radius: 12px;
 	padding: 0 5px;
 	text-align: center
