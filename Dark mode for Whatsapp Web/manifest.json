@@ -12,7 +12,7 @@
 	"content_scripts":[
 		{
 		"matches": ["https://web.whatsapp.com/*"],
-		"css": ["dark_theme_1.css", "dark_theme_2.css"],
+		"css": ["dark_theme_1.css"],
 		"run_at" : "document_start"
 		}
 	]
